@@ -1,3 +1,3 @@
 # NewsScrapeApp
 
-##Description: A web app that lets users view and leave comments on the latest news! 
+#Description: A web app that lets users view and leave comments on the latest news! 
